@@ -1,1 +1,2 @@
 # odin-recipes
+This is a Recipe Project which has been created in order to showcase the skills I have learnt in the Odin Project so far. I will be demonstrating Hpw to set up and create a web page in GitHub.
